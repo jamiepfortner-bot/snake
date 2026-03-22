@@ -6,6 +6,8 @@ Als de slang de muur of zichzelf raakt is het Game Over.
 Probeer zo groot mogelijk te worden om een highscore neer te zetten.
 
 
+
+
 Install/Run Instructions
 
 Zorg dat je Python 3 hebt geïnstalleerd. Download de volgende package doormiddel van deze code in te voeren in je terminal: 
