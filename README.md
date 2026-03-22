@@ -30,7 +30,6 @@ De snake beweegt door wasd te gebruiken of door de pijltjestoetsen te gebruiken.
 De volgende keys hebben een functie:
 P: pauze
 R: restart
-M: terug naar startscherm
 Q: spel afsluiten
 
 
